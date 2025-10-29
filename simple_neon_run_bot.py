@@ -370,10 +370,6 @@ def view_registrations():
                     <div class="stat-number">""" + str(female_count) + """</div>
                     <div class="stat-label">Female</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number">""" + str(other_count) + """</div>
-                    <div class="stat-label">Other</div>
-                </div>
             </div>
             
             <div class="controls">
