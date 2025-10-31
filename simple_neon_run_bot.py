@@ -15,9 +15,9 @@ import csv
 app = Flask(__name__)
 
 # ===== EDIT THESE 3 LINES WITH YOUR TWILIO CREDENTIALS =====
-ACCOUNT_SID = 'AC112d4bff84d1103208a6612d05af2ae3'
-AUTH_TOKEN = '1cf8cfe39f142fb8b6ccef1ee2e4db5c'
-TWILIO_WHATSAPP_NUMBER = 'whatsapp:+14155238886'
+ACCOUNT_SID = ''
+AUTH_TOKEN = ''
+TWILIO_WHATSAPP_NUMBER = ''
 # ===========================================================
 
 client = Client(ACCOUNT_SID, AUTH_TOKEN)
